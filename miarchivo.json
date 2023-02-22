@@ -1,0 +1,41 @@
+{
+    "escuadron" : "L U G A R E S      D E     E X P E R I E N C I A S ",
+    "ciudad" : "Muchos Lugares en Colombia",
+    "creado" :2023,
+    "base" : "Super tower",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Playa Haway",
+        "edad" : 100,
+        "identidad" : " Ibague",
+        "poderes" : [
+          "Parche de Amigos",
+          "Familiar",
+          "Economico"
+        ]
+        
+      },
+      {
+        "nombre" : "Santa Marta",
+        "edad" : 200,
+        "identidad" : "Caribe de Colombia",
+        "poderes" : [
+          "Playa Blanca",
+          "Mucho Mar",
+          "Mucha Gente"
+        ]
+      },
+      {
+        "nombre" : "Kaput",
+        "edad" : 30,
+        "identidad" : "Electronica",
+        "poderes" : [
+          "Inlcusion de Genero",
+          "Electronica Sensorial",
+          "Varios Ambientes"
+         
+        ]
+      }
+    ]
+  }
