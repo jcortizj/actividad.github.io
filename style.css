@@ -124,7 +124,7 @@ html {
     cursor: pointer;
   }
   a:visited{
-    color:red;
+    color: white;
   }
   a:hover{
     background-color: rgb(11, 150, 231);
