@@ -113,5 +113,13 @@ html {
     margin-top: 70px;
          
   }
+  a{
+    background-color: gold;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
   
   
